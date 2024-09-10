@@ -1,0 +1,1 @@
+Projeto de requisição de dados de uma API com Python.
